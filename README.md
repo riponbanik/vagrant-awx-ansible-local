@@ -10,5 +10,5 @@ Clone the repo and run `vagrant up`. Modify the host file entry or add DNS A rec
 This has been tested with Ansible 2.4.0.2, Vagrant 2.0.1 and VirtualBox 5.2.4.
 
 ### References
-*[AWX Repo]https://github.com/ansible/awx
-*[Ansible Local]https://www.vagrantup.com/docs/provisioning/ansible_local.html
+*[AWX Repo](https://github.com/ansible/awx)
+*[Ansible Local](https://www.vagrantup.com/docs/provisioning/ansible_local.html)
