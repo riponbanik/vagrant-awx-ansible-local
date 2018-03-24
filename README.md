@@ -11,3 +11,4 @@ This has been tested with Ansible 2.4.0.2, Vagrant 2.0.1 and VirtualBox 5.2.4.
 
 ### References
 https://github.com/ansible/awx
+https://www.vagrantup.com/docs/provisioning/ansible_local.html
